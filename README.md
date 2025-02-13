@@ -15,6 +15,7 @@ This notebook provides a comprehensive walkthrough of the model architecture, tr
 
 If you find LCAT-Net useful in your research or applications, please consider citing our work:
 
+```bibtex
 @article{khaldi2024lcat,
   title={LCAT-Net: Lightweight Context-Aware Deep Learning Approach for Teeth Segmentation in Panoramic X-rays},
   author={Khaldi, Anouar and Khaldi, Belal and Aiadi, Oussama},
@@ -25,7 +26,7 @@ If you find LCAT-Net useful in your research or applications, please consider ci
   year={2024},
   publisher={Springer}
 }
-
+```
 
 For more details, you can access the full article here: :contentReference[oaicite:1]{index=1}
 
@@ -33,14 +34,12 @@ For more details, you can access the full article here: :contentReference[oaicit
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. This permits any non-commercial use, sharing, distribution, and reproduction in any medium or format, as long as appropriate credit is given to the original authors and source. For more details, please refer to the [license terms](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
----
 
 For any questions or further information, please contact the corresponding author:
 
 **Anouar Khaldi**
 
 Department of Computer Science and Information Technologies, Kasdi Merbah University, Ouargla, 30000, Algeria
-
 Email: [anouar.khaldi@univ-ouargla.dz](mailto:anouar.khaldi@univ-ouargla.dz)
 
 We appreciate your interest in LCAT-Net and welcome any feedback or contributions to enhance this work.
