@@ -28,7 +28,7 @@ If you find LCAT-Net useful in your research or applications, please consider ci
 }
 ```
 
-For more details, you can access the full article [here](https://doi.org/10.1007/s44196-024-00703-5)
+For more details, you can access the full article [here](https://doi.org/10.1007/s44196-024-00703-5).
 
 ## License
 
@@ -40,6 +40,6 @@ For any questions or further information, please get in touch with the correspon
 **Anouar Khaldi**
 
 Department of Computer Science and Information Technologies, Kasdi Merbah University, Ouargla, 30000, Algeria
-Email: [anouar.khaldi@univ-ouargla.dz](mailto:anouar.khaldi@univ-ouargla.dz)
+Email: [kld.anouar@gmail.com](mailto:kld.anouar@gmail.com)
 
 We appreciate your interest in LCAT-Net and welcome any feedback or contributions to enhance this work.
