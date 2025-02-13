@@ -2,7 +2,7 @@
 
 ## Overview
 
-LCAT-Net is a deep learning model designed to accurately segment teeth in panoramic X-ray images. By preserving both contextual and fine-grained details, LCAT-Net addresses challenges such as blurred interdental boundaries, noise variations, and overlapping dental structures. The model introduces a novel Multi-scale Context Fusion (MCF) block to effectively capture and fuse features from multiple scales, enabling more accurate segmentation of dental structures of varying sizes and orientations. Additionally, a dense skip connection module (DSM) allows each decoder layer to combine details from the symmetric encoder layer and all upper encoder layers. :contentReference[oaicite:0]{index=0}
+LCAT-Net is a deep learning model designed to segment teeth in panoramic X-ray images accurately. By preserving both contextual and fine-grained details, LCAT-Net addresses challenges such as blurred interdental boundaries, noise variations, and overlapping dental structures. The model introduces a novel Multi-scale Context Fusion (MCF) block to effectively capture and fuse features from multiple scales, enabling more accurate segmentation of dental structures of varying sizes and orientations. Additionally, a dense skip connection module (DSM) allows each decoder layer to combine details from the symmetric encoder layer and all upper encoder layers.
 
 ## Access the Code
 
@@ -28,14 +28,14 @@ If you find LCAT-Net useful in your research or applications, please consider ci
 }
 ```
 
-For more details, you can access the full article here: :contentReference[oaicite:1]{index=1}
+For more details, you can access the full article [here](https://doi.org/10.1007/s44196-024-00703-5)
 
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License. This permits any non-commercial use, sharing, distribution, and reproduction in any medium or format, as long as appropriate credit is given to the original authors and source. For more details, please refer to the [license terms](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 
-For any questions or further information, please contact the corresponding author:
+For any questions or further information, please get in touch with the corresponding author:
 
 **Anouar Khaldi**
 
