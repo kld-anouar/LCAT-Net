@@ -41,7 +41,7 @@ LCAT-Net is a deep learning model designed to segment teeth in panoramic X-ray i
 The implementation of LCAT-Net is available in the following Jupyter Notebook:
 
 [![Open In Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/kanouar/lcat-net-lightweight-context-aware-network)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/johndoe/my-project/blob](https://www.kaggle.com/code/kanouar/lcat-net-lightweight-context-aware-network))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1O2iZj1teCtWOGCX6767EmINSO3HE2ddY?usp=sharing)
 
 This notebook provides a comprehensive walkthrough of the model architecture, training process, and evaluation metrics. Users can interact with the code, modify parameters, and visualize results directly within the notebook.
 
