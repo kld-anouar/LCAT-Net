@@ -2,10 +2,10 @@
 
 ## Overview
 
-LCAT-Net is a deep learning model designed to segment teeth in panoramic X-ray images accurately. By preserving both contextual and fine-grained details, LCAT-Net addresses challenges such as blurred interdental boundaries, noise variations, and overlapping dental structures. The model introduces a novel Multi-scale Context Fusion (MCF) block to effectively capture and fuse features from multiple scales, enabling more accurate segmentation of dental structures of varying sizes and orientations. Additionally, a dense skip connection module (DSM) allows each decoder layer to combine details from the symmetric encoder layer and all upper encoder layers.
+LCAT-Net is a deep learning model designed to segment teeth in panoramic X-ray images accurately. By preserving both contextual and fine-grained details, LCAT-Net addresses challenges such as blurred interdental boundaries, noise variations, and overlapping dental structures. The model introduces a novel Multi-scale Context Fusion (MCF) block to effectively capture and fuse features from multiple scales, enabling more accurate segmentation of dental structures of varying sizes and orientations. Additionally, a dense skip connection module (DSM) allows each decoder layer to combine details from the symmetric encoder layer and all upper encoder layers. The model was trained and tested on three datasets: children, adult, and combined, to ensure its robustness across different age groups.
+
 
 ## Comparison with Previous Segmentation Networks
-## Comparison results on Children (a), Adult (b), and Combined (c) dataset.
 **Children dataset (a):**
 | Architecture    | Recall ± Std | Spe ± Std  | Acc ± Std  | IoU ± Std  | Dice ± Std  |
 |---------------|-------------|------------|------------|------------|------------|
@@ -40,7 +40,7 @@ LCAT-Net is a deep learning model designed to segment teeth in panoramic X-ray i
 
 The implementation of LCAT-Net is available in the following Jupyter Notebook:
 [LCAT-Net notebook (kaggle)](https://www.kaggle.com/code/kanouar/lcat-net-lightweight-context-aware-network)
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/johndoe/my-project/blob](https://www.kaggle.com/code/kanouar/lcat-net-lightweight-context-aware-network))
 This notebook provides a comprehensive walkthrough of the model architecture, training process, and evaluation metrics. Users can interact with the code, modify parameters, and visualize results directly within the notebook.
 
 ## Citation
